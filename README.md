@@ -34,7 +34,14 @@ For commercial support or feature requests, please also consider [sponsoring thi
 
 
 ## Getting started<a id="getting-started"></a>
-Begin by downloading the proxy via one of the following methods:
+Begin by choosing one of the following options.
+
+### Option A: Use a hosted service (fastest)
+Skip the installation and configuration steps below by using [Auth-Email.com](https://auth-email.com/?ref=emailproxy-setup), a fully managed alternative that works with your existing email setup.
+No software installation, OAuth client registration or ongoing maintenance is required.
+
+### Option B: Self-host (free)
+If you'd prefer to run the proxy yourself, first download it via one of the following methods, then continue following the instructions in this section:
 
 <ol type="A">
   <li><b>Pick a <a href="https://github.com/simonrob/email-oauth2-proxy/releases/latest">pre-built release</a></b> for your platform (macOS or Windows; no installation needed); <i>or</i>,</li>
